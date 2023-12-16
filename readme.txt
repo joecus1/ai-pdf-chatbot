@@ -1,0 +1,1 @@
+This app creates a vector database using content from pdfs. It uses the vector database to provide context for a GenAI chatbot. It is an implementation of the RAG approach.
