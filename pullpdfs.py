@@ -12,11 +12,11 @@ def pull():
         os.mkdir('./data/')
 
     urls = [
-        'https://www.accenture.com/content/dam/accenture/final/capabilities/corporate-functions/growth-and-strategy/document/Accenture-Fiscal-2022-Annual-Report.pdf#zoom=50',
+        'https://s2.q4cdn.com/299287126/files/doc_financials/2023/ar/2022-Shareholder-Letter.pdf',
     ]
 
     filenames = [
-        'Accenture-Fiscal-2022-Annual-Report'
+        'Amazon-Shareholders-2022'
     ]
 
     metadata = [
